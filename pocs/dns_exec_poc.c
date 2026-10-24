@@ -19,7 +19,7 @@ static void legit(void) {
 static void win(void) {
     puts("[*] PWNED: attacker redirected control flow into win()");
     fflush(stdout);
-    system("echo '[BREAD] arbitrary code execution' && id");
+    system("echo '[TURKY] arbitrary code execution' && id");
 }
 
 int main(void) {
