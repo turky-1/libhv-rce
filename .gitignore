@@ -1,0 +1,3 @@
+# vendored libhv (cloned by build.sh) and build artifacts
+/libhv/
+/bin/
